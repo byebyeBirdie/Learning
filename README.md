@@ -1,2 +1,2 @@
 # Learning
-This is a learning project
+Learning thbe Flask framework with Python
